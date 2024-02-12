@@ -1,1 +1,1 @@
-For jenkins purpose
+For jenkins
