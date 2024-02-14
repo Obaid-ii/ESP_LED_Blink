@@ -3,7 +3,7 @@
 #include <freertos/task.h>
 #include <stdio.h>
 
-#define LED_PIN 2
+//#define LED_PIN 2
 
 void led_blink(void *pvParameter)
 {
